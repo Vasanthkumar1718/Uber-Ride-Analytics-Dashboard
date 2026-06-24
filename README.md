@@ -65,6 +65,23 @@ This project analyzes Uber ride booking data using Power BI and provides insight
 * Cancellation Analysis
 * Monthly and Quarterly Trends
 
+## Dashboard Preview
+
+### Home Page
+![Home Page](Images/Home_Page.png)
+
+### Overview Page
+![Overview Page](Images/Overview.png)
+
+### Vehicle Page
+![Vehicle Page](Images/Vehicle_Page.png)
+
+### Revenue Page
+![Revenue Page](Images/Revenue_Page.png)
+
+### Rider Page
+![Rider Page](Images/Rider_Page.png)
+
 ## Author
 
 Vasanthkumar H S
